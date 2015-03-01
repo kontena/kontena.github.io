@@ -1,2 +1,3 @@
-# kontena.github.io
-Website for Kontena, Inc
+# Website for Kontena, Inc.
+
+Static placeholder page for kontena.io
