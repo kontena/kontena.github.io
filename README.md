@@ -1,3 +1,3 @@
-# Website for Kontena, Inc.
+# Kontena Website
 
-Static placeholder page for kontena.io
+Static website for Kontena. http://www.kontena.io
