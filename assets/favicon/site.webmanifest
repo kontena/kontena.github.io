@@ -1,0 +1,19 @@
+{
+    "name": "Kontena",
+    "short_name": "Kontena",
+    "icons": [
+        {
+            "src": "https://kontena.io/assets/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://kontena.io/assets/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#d0d1d2",
+    "background_color": "#d0d1d2",
+    "display": "standalone"
+}

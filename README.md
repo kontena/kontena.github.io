@@ -1,3 +1,3 @@
 # Kontena Website
 
-Static website for Kontena. http://www.kontena.io
+This is the git repository of kontena.io website.

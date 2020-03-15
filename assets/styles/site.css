@@ -1,0 +1,64 @@
+html,body{
+  background: #000;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+body {
+  background: url('../images/dark-bg-grained.png') repeat;
+  font-family: 'Avenir', 'Helvetica', 'Arial', 'sans-serif';
+}
+.wrapper{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inner{
+  width: 22%;
+  height: 22%;
+}
+.kontena-logo{
+  width: 100%;
+  height: 100%;
+}
+.kontena-logo.white{
+  background: url('../images/logo-white.svg') no-repeat center center;
+}
+.kontena-logo.black{
+  background: url('../images/logo-black.svg') no-repeat center center;
+}
+.links{
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding-top: 20px;
+  text-align: center;
+  color: rgba(255,255,255,0.25);
+}
+.links ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.links ul li{
+  display: block;
+  margin: 5px;
+}
+.links ul li a{
+  text-decoration: none;
+  color: #3d90ce;
+}
+.about{
+  font-size: 12px;
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  color: rgba(255,255,255,0.25);
+}
+.about p{
+  text-align: center;
+  margin: 10px;
+}
